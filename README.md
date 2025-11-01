@@ -1,5 +1,4 @@
-#🌦️ Rainfall Prediction using Machine Learning
-📘 Project Overview
+# Rainfall Prediction using Machine Learning
 
 This project is an interactive machine learning application designed to predict the likelihood of rainfall based on various meteorological parameters.
 It uses a combination of data preprocessing, classification models, and visualization tools to deliver accurate predictions.
@@ -94,7 +93,7 @@ predict_btn = widgets.Button(
 
 🧩 How to Run the Project
 Step 1 — Clone Repository
-git clone https://github.com/<your-username>/Rainfall-Prediction-ML.git
+git clone https://github.com/<harshdhiman08>/Rainfall_Prediction.git
 cd Rainfall-Prediction-ML
 
 Step 2 — Install Dependencies
@@ -161,9 +160,9 @@ Use deep learning (LSTM) for time-series rainfall prediction.
 
 Harsh Dhiman
 📍 MCA Student | iOS & Flutter Developer | Data Science Enthusiast
-🔗 GitHub
+🔗 github.com,HarshDhiman08
 
-🔗 LinkedIn
+🔗 linkdin.com/HarshDhiman08
 
 🏁 Conclusion
 
